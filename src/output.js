@@ -20,7 +20,7 @@ export const outputResult = async (data, outputExt = 'json') => {
       if (outputExt === 'xlsx') {
         const schema = Object.keys(data[0]).map((item) => {
           let width = 10;
-          if (item === 'FilePath' || item === 'Content') width = 100;
+          if (item === 'FilePath' || item === 'Content' || item === 'Translate') width = 100;
           const columnFormat = {
             column: item,
             value: (i) => i[item],
@@ -34,7 +34,7 @@ export const outputResult = async (data, outputExt = 'json') => {
 
         await writeXlsxFile(data, {
           schema,
-          filePath: filePath,
+          filePath,
           headerStyle: {
             backgroundColor: '#d9f5fc',
             fontWeight: 'bold',

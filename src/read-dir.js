@@ -4,6 +4,7 @@ import { fileURLToPath } from 'node:url';
 import chalk from 'chalk';
 import config from '../config.js';
 import { delay } from './utils.js';
+import { translate } from './translate.js';
 
 const { log } = console;
 
@@ -51,14 +52,19 @@ export const readFileByPath = async (arrayFilesPath) => {
             const matchContent = config.regexpTrigger.exec(content);
             if (matchContent) {
               const contentLine = matchContent.input.trim();
-
-              if (config.delayReadingLinesInFile) await delay(config.delayReadingLinesInFile);
-
-              data.push({
+              const row = {
                 FilePath: filePath,
                 TextLine: lineNumber,
                 Content: contentLine,
-              });
+              };
+
+              if (config.translate.enable) {
+                const translateResult = await translate(contentLine);
+                row.Translate = translateResult;
+              }
+              if (config.delayReadingLinesInFile) await delay(config.delayReadingLinesInFile);
+
+              data.push(row);
             }
           }
           lineNumber++;

@@ -22,7 +22,7 @@ export default {
    * Тип выгрузки результата
    * 'xlsx' или 'json'
    */
-  outputExt: 'json',
+  outputExt: 'xlsx',
   /**
    * Имя файла с выгрузкой результатов
    */
@@ -32,4 +32,12 @@ export default {
    * ms
    */
   delayReadingLinesInFile: 0,
+  /**
+   * Конфигурация сервиса перевода
+   */
+  translate: {
+    enable: false,
+    url: 'https://api.openai.com/v1/chat/completions',
+    apiSecretKey: '',
+  },
 };
