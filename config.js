@@ -36,8 +36,9 @@ export default {
    * Конфигурация сервиса перевода
    */
   translate: {
-    enable: false,
+    enable: true,
     url: 'https://api.openai.com/v1/chat/completions',
     apiSecretKey: '',
+    reqTimeoutMs: 0,
   },
 };

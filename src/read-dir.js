@@ -38,6 +38,7 @@ export const getAllFilesByExtInDir = (dir = dirPath, arrayOfFiles) => {
 export const readFileByPath = async (arrayFilesPath) => {
   if (config.delayReadingLinesInFile)
     log(chalk.yellow(`A loop with a ${config.delayReadingLinesInFile} millisecond delay in reading lines`));
+  if (config.translate.enable) log(chalk.yellow(`Translation via an external service is enabled`));
 
   const data = [];
   try {
