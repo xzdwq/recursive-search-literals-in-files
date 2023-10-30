@@ -1,4 +1,0 @@
-test.txt
-
-one file
-werdsf текст ру
