@@ -1,0 +1,2114 @@
+[
+  {
+    "name": "Бизнес-координатор",
+    "translate": "Business Coordinator"
+  },
+  {
+    "name": "Делопроизводитель",
+    "translate": "Document Control Specialist"
+  },
+  {
+    "name": "Директор",
+    "translate": "Director"
+  },
+  {
+    "name": "Директор ДО",
+    "translate": "Director of Capital Equipment Department"
+  },
+  {
+    "name": "Директор по сервису",
+    "translate": "Director of Service Department"
+  },
+  {
+    "name": "ЗГД",
+    "translate": "Sales Director [country]"
+  },
+  {
+    "name": "Инженер отдела капитального оборудования",
+    "translate": "Capital Equipment Department Engineer"
+  },
+  {
+    "name": "КАМ",
+    "translate": "KAM"
+  },
+  {
+    "name": "Категорийный менеджер",
+    "translate": "Category Manager"
+  },
+  {
+    "name": "Маркетолог-аналитик",
+    "translate": "Marketing Analyst"
+  },
+  {
+    "name": "Менеджер по контракции",
+    "translate": "Contract Manager"
+  },
+  {
+    "name": "Менеджер по продажам",
+    "translate": "Sales manager"
+  },
+  {
+    "name": "Инженер по продажам",
+    "translate": "Sales engineer"
+  },
+  {
+    "name": "Менеджер продуктовой группы",
+    "translate": "Product Group Manager"
+  },
+  {
+    "name": "Руководитель выездного сервиса",
+    "translate": "Head of Field Service"
+  },
+  {
+    "name": "Руководитель отдела капитального оборудования",
+    "translate": "Capital Equipment Department Head"
+  },
+  {
+    "name": "Руководитель проектов",
+    "translate": "Project Manager"
+  },
+  {
+    "name": "Руководитель стационарного сервиса",
+    "translate": "Head of On-Site Service"
+  },
+  {
+    "name": "Руководитель филиала",
+    "translate": "Branch manager"
+  },
+  {
+    "name": "Сотрудник выездного сервиса",
+    "translate": "Field Service Technician"
+  },
+  {
+    "name": "Сотрудник отдела закупок",
+    "translate": "Procurement specialist"
+  },
+  {
+    "name": "Сотрудник отдела инжиниринга",
+    "translate": "Engineering specialist"
+  },
+  {
+    "name": "Сотрудник стационарного сервиса",
+    "translate": "On-Site Service Technician"
+  },
+  {
+    "name": "Специалист по гарантии",
+    "translate": "Warranty Specialist"
+  },
+  {
+    "name": "Ответственный",
+    "translate": "Responsible"
+  },
+  {
+    "name": "Инициатор",
+    "translate": "Initiator"
+  },
+  {
+    "name": "Исполнитель",
+    "translate": "Executor"
+  },
+  {
+    "name": "Зам. РМА по оборудованию",
+    "translate": "Deputy MA Director "
+  },
+  {
+    "name": "Продавец",
+    "translate": "Sales Manager"
+  },
+  {
+    "name": "Бухгалтер",
+    "translate": "Accountant"
+  },
+  {
+    "name": "Инженер по гарантии",
+    "translate": "Warranty Engineer"
+  },
+  {
+    "name": "Руководитель Market Area",
+    "translate": "Sales Director [country]"
+  },
+  {
+    "name": "Руководитель направления",
+    "translate": "Product Line Manager"
+  },
+  {
+    "name": "Директор департамента",
+    "translate": "Department Director"
+  },
+  {
+    "name": "Ответственный за продажу от департамента",
+    "translate": "Responsible for sales from the Department"
+  },
+  {
+    "name": "Ответственный за продажу",
+    "translate": "Responsible for sales"
+  },
+  {
+    "name": "Продавец продукта",
+    "translate": "Product Seller"
+  },
+  {
+    "name": "Менеджер по реализации",
+    "translate": "Project Execution Manager"
+  },
+  {
+    "name": "Консультант по продаже",
+    "translate": "Sales Consultant"
+  },
+  {
+    "name": "Руководитель инжиниринга",
+    "translate": "Head of Engineering"
+  },
+  {
+    "name": "Руководитель контрактного отдела",
+    "translate": "Head of Contract Department "
+  },
+  {
+    "name": "Менеджер по контрактации",
+    "translate": "Contract Manager"
+  },
+  {
+    "name": "Коммерческий директор",
+    "translate": "VP Sales [region]"
+  },
+  {
+    "name": "Исполнительный директор",
+    "translate": "Executive Director"
+  },
+  {
+    "name": "Руководитель тех. поддержки",
+    "translate": "Technical Support Manager"
+  },
+  {
+    "name": "Руководитель по работе с проектными институтами",
+    "translate": "Head of the Design Institute relations"
+  },
+  {
+    "name": "Руководитель по поддержке продаж и реализации инжиниринговых проектов",
+    "translate": "Head of Sales Support and Engineering Projects Execution"
+  },
+  {
+    "name": "Технолог",
+    "translate": "Process Engineer"
+  },
+  {
+    "name": "ГИП",
+    "translate": "Chief Project Engineer"
+  },
+  {
+    "name": "Брони и запчасти",
+    "translate": "Spares and Wears"
+  },
+  {
+    "name": "Выездной сервис",
+    "translate": "Field Service"
+  },
+  {
+    "name": "Гидрометаллургия",
+    "translate": "Hydrometallurgy"
+  },
+  {
+    "name": "ДСО",
+    "translate": "Crushing & Screening (C&S)"
+  },
+  {
+    "name": "Заказ на склад SM",
+    "translate": "Order to SM Warehouse "
+  },
+  {
+    "name": "ЗРА.Комплекс",
+    "translate": "Valves. Complex projects"
+  },
+  {
+    "name": "Измельчение",
+    "translate": "Grinding"
+  },
+  {
+    "name": "Инженерный стационарный сервис",
+    "translate": "Engineering On-Site Service"
+  },
+  {
+    "name": "Инжиниринг",
+    "translate": "Engineering"
+  },
+  {
+    "name": "Классификация и сепарация",
+    "translate": "Classification and Separation"
+  },
+  {
+    "name": "Комплексные проекты",
+    "translate": "Complex Projects"
+  },
+  {
+    "name": "Комплексы ДРП",
+    "translate": "Complex Projects. Comminution "
+  },
+  {
+    "name": "Конвейерные ленты",
+    "translate": "Conveyor Belts"
+  },
+  {
+    "name": "Конвейерные решения",
+    "translate": "Conveyor Solutions"
+  },
+  {
+    "name": "Мельничная футеровка",
+    "translate": "Mill Lining"
+  },
+  {
+    "name": "Механический привод",
+    "translate": "Mechanical Drive"
+  },
+  {
+    "name": "Насосные станции",
+    "translate": "Pumping Stations"
+  },
+  {
+    "name": "Продажа на основании артикулов",
+    "translate": "Sales Based on Part Numbers"
+  },
+  {
+    "name": "Продажа насосов",
+    "translate": "Pump Sales"
+  },
+  {
+    "name": "Просеивающие поверхности",
+    "translate": "Screen media"
+  },
+  {
+    "name": "Сгущение",
+    "translate": "Thickeners "
+  },
+  {
+    "name": "Складирование и транспортировка",
+    "translate": "Bulk material handling (BMH)"
+  },
+  {
+    "name": "Стационарный сервис",
+    "translate": "On-Site Servic"
+  },
+  {
+    "name": "Трубопроводы",
+    "translate": "Piping and hoses"
+  },
+  {
+    "name": "Фильтрация",
+    "translate": "Filters"
+  },
+  {
+    "name": "Флотация",
+    "translate": "Flotation"
+  },
+  {
+    "name": "Футеровка самосвалов",
+    "translate": "Dump Truck Lining"
+  },
+  {
+    "name": "Футеровочные материалы",
+    "translate": "Lining Materials"
+  },
+  {
+    "name": "LCS",
+    "translate": "LCS"
+  },
+  {
+    "name": "Multotec. Запчасти",
+    "translate": "Multotec. Spare Parts"
+  },
+  {
+    "name": "Multotec. Оборудование",
+    "translate": "Multotec. Equipment"
+  },
+  {
+    "name": "Roitech",
+    "translate": "Roitech"
+  },
+  {
+    "name": "Schneider Electric",
+    "translate": "Schneider Electric"
+  },
+  {
+    "name": "АСУ",
+    "translate": "APCS (Automated Process Control System)"
+  },
+  {
+    "name": "Бутары. Разгрузочные системы",
+    "translate": "Trommel. Discharge systems"
+  },
+  {
+    "name": "Венцы и подвенцовые шестерни",
+    "translate": "Girth gears and pinions"
+  },
+  {
+    "name": "Винтовые сепараторы",
+    "translate": "Spiral Separator"
+  },
+  {
+    "name": "ВМН. Вагоноопрокидыватель",
+    "translate": "ВМН. Car dumpers"
+  },
+  {
+    "name": "ВМН. Стакер, реклаймер, усреднитель",
+    "translate": "ВМН. Stacker, reclaimer"
+  },
+  {
+    "name": "Вспомогательное оборудование. Аспирация",
+    "translate": "Auxiliary equipment. Aspiration"
+  },
+  {
+    "name": "Вспомогательное оборудование. Весы",
+    "translate": "Auxiliary equipment. Weigh hoppers"
+  },
+  {
+    "name": "Вспомогательное оборудование. Гидромолоты",
+    "translate": "Auxiliary equipment. Hydraulic hammers"
+  },
+  {
+    "name": "Вспомогательное оборудование. Дозаторы",
+    "translate": "Auxiliary equipment. Metering equipment"
+  },
+  {
+    "name": "Вспомогательное оборудование. Железоотделители, Металлодетекторы",
+    "translate": "Auxiliary equipment. Iron separator, metal detectors"
+  },
+  {
+    "name": "Вспомогательное оборудование. Пожаротушение",
+    "translate": "Auxiliary equipment. Fire extinguishing"
+  },
+  {
+    "name": "Вспомогательное оборудование. Прочее",
+    "translate": "Auxiliary equipment. Other"
+  },
+  {
+    "name": "Гидроциклоны",
+    "translate": "Hydrocyclone"
+  },
+  {
+    "name": "Гидроциклоны. Запчасти",
+    "translate": "Hydrocyclones. Spare parts"
+  },
+  {
+    "name": "Грохот. Питатель. Запчасти",
+    "translate": "Screens. Feeders. Spare parts"
+  },
+  {
+    "name": "Грохота горизонтальные",
+    "translate": "Horizontal Screens"
+  },
+  {
+    "name": "Грохота колосниковые",
+    "translate": "Grizzly screens"
+  },
+  {
+    "name": "Грохота мобильные",
+    "translate": "Mobile Screens"
+  },
+  {
+    "name": "Грохота мультинаклонные (банан)",
+    "translate": "Multi-slope screens (banana)"
+  },
+  {
+    "name": "Грохота наклонные",
+    "translate": "Inclined Screens"
+  },
+  {
+    "name": "Грохота прочие",
+    "translate": "Other Screens"
+  },
+  {
+    "name": "Грохота роликовые (воблеры)",
+    "translate": "Roller screens (wobblers)"
+  },
+  {
+    "name": "Дробилки гирационные",
+    "translate": "Gyratory Crushers"
+  },
+  {
+    "name": "Дробилки конусные",
+    "translate": "Cone Crushers"
+  },
+  {
+    "name": "Дробилки мобильные",
+    "translate": "Mobile Crushers"
+  },
+  {
+    "name": "Дробилки роторные",
+    "translate": "Impact crushers"
+  },
+  {
+    "name": "Дробилки центробежные",
+    "translate": "Centrifugal Crushers"
+  },
+  {
+    "name": "Дробилки шнекозубчатые (валковые)",
+    "translate": "Sizers (roller crushers)"
+  },
+  {
+    "name": "Дробилки щековые",
+    "translate": "Jaw Crushers"
+  },
+  {
+    "name": "Дробилки. Брони",
+    "translate": "Crushers. Wears"
+  },
+  {
+    "name": "Дробилки. Запчасти",
+    "translate": "Crushers. Spare Parts"
+  },
+  {
+    "name": "ДСК",
+    "translate": "C&S Plant"
+  },
+  {
+    "name": "ДСО",
+    "translate": "Crushing & Screening (C&S)"
+  },
+  {
+    "name": "ДСО construction",
+    "translate": "C&S. Construction"
+  },
+  {
+    "name": "ДСО Агентское",
+    "translate": "C&S. Agency agreement"
+  },
+  {
+    "name": "Запчасти PYRO",
+    "translate": "Spare parts PYRO"
+  },
+  {
+    "name": "Запчасти обогатительного оборуд.",
+    "translate": "Processing equipment. Spare parts "
+  },
+  {
+    "name": "Запчасти План",
+    "translate": "Spares and Wears Plan"
+  },
+  {
+    "name": "ЗРА Дисковые затворы",
+    "translate": "Butterfly valves"
+  },
+  {
+    "name": "ЗРА Ножевые задвижки",
+    "translate": "Knife gate valves"
+  },
+  {
+    "name": "ЗРА Обратные клапаны",
+    "translate": "Non-return valves"
+  },
+  {
+    "name": "ЗРА План",
+    "translate": "Valves Plan"
+  },
+  {
+    "name": "ЗРА Прочее",
+    "translate": "Valves. Other"
+  },
+  {
+    "name": "ЗРА Регулирующие клапаны",
+    "translate": "Control valves"
+  },
+  {
+    "name": "ЗРА Сегментные клапаны",
+    "translate": "Segment valves"
+  },
+  {
+    "name": "ЗРА Шланговые задвижки",
+    "translate": "Hose valves"
+  },
+  {
+    "name": "ЗРА. Запчасти",
+    "translate": "Valves. Spare parts"
+  },
+  {
+    "name": "Индустриальные редукторы",
+    "translate": "Industrial gearboxes"
+  },
+  {
+    "name": "Инжиниринг",
+    "translate": "Engineering"
+  },
+  {
+    "name": "Интенсивное цианирование",
+    "translate": "Intensive Cyanidation"
+  },
+  {
+    "name": "Компрессора",
+    "translate": "Compressors"
+  },
+  {
+    "name": "Конвейера Крутонаклонные",
+    "translate": "Z-type conveyors"
+  },
+  {
+    "name": "Конвейера Мобильные ленточные",
+    "translate": "Belt mobile conveyors"
+  },
+  {
+    "name": "Конвейера Радиальные, телескопические",
+    "translate": "Radial, Telescopic Conveyors"
+  },
+  {
+    "name": "Конвейера Специальные (скребковые и винтовые)",
+    "translate": "Special Conveyors (Flight and Screw)"
+  },
+  {
+    "name": "Конвейера. Flexowel (покетлифт)",
+    "translate": "Conveyors. Flexowel (pocketlift)"
+  },
+  {
+    "name": "Конвейера. Элеваторы",
+    "translate": "Conveyors. Elevators"
+  },
+  {
+    "name": "Конвейерные аксессуары",
+    "translate": "Conveyor Accessories"
+  },
+  {
+    "name": "Конвейерные компоненты",
+    "translate": "Conveyor Components"
+  },
+  {
+    "name": "Конвейерные ленты",
+    "translate": "Conveyor Belts"
+  },
+  {
+    "name": "Конвейеры стационарные ленточные 150-600 м",
+    "translate": "Belt stationary conveyors 50-600 m"
+  },
+  {
+    "name": "Конвейеры стационарные ленточные 50-150 м",
+    "translate": "Belt stationary conveyors 50-150 m "
+  },
+  {
+    "name": "Конвейеры стационарные ленточные 600 м+",
+    "translate": "Belt stationary conveyors 600 m+"
+  },
+  {
+    "name": "Конвейеры стационарные ленточные до 50 м",
+    "translate": "Belt stationary conveyors up to 50 m"
+  },
+  {
+    "name": "Магнитные сепараторы",
+    "translate": "Drum Magnetic Separators"
+  },
+  {
+    "name": "Материалы План",
+    "translate": "Lining Materials Plan"
+  },
+  {
+    "name": "Материалы: LF",
+    "translate": "Lining materials: LF"
+  },
+  {
+    "name": "Материалы: металл",
+    "translate": "Lining materials: Metal"
+  },
+  {
+    "name": "Материалы: резина/полиуретан",
+    "translate": "Lining materials: Rubber/Polyurethane"
+  },
+  {
+    "name": "Материалы: резинокерамика",
+    "translate": "Lining materials: Rubber Ceramic"
+  },
+  {
+    "name": "Мел. футеровка Вертимилл",
+    "translate": "Mill lining Vertimill"
+  },
+  {
+    "name": "Мел. футеровка крепеж",
+    "translate": "Mill lining fastener "
+  },
+  {
+    "name": "Мел. футеровка металл",
+    "translate": "Metal mill lining "
+  },
+  {
+    "name": "Мел. футеровка полиуретан",
+    "translate": "Polyurethane mill lining"
+  },
+  {
+    "name": "Мел. футеровка резина",
+    "translate": "Rubber mill lining "
+  },
+  {
+    "name": "Мел. футеровка резино-магнитная",
+    "translate": "Rubber-magnetic mill lining "
+  },
+  {
+    "name": "Мел. футеровка резино-металл",
+    "translate": "Rubber-metal mill lining "
+  },
+  {
+    "name": "Мел. футеровка. Перефутеровочные машины",
+    "translate": "Mill reline machines"
+  },
+  {
+    "name": "Мельницы вертикальные",
+    "translate": "Vertical mills"
+  },
+  {
+    "name": "Мельницы горизонтальные",
+    "translate": "Horizontal mills"
+  },
+  {
+    "name": "Мельницы. Запчасти",
+    "translate": "Mills. Spare parts"
+  },
+  {
+    "name": "Мельницы. Прочее",
+    "translate": "Mills. Other"
+  },
+  {
+    "name": "Мелющие тела",
+    "translate": "Grinding Media"
+  },
+  {
+    "name": "Металлоконструкции",
+    "translate": "Metal Constructions"
+  },
+  {
+    "name": "Мотор-редукторы",
+    "translate": "Gearmotors"
+  },
+  {
+    "name": "МФ План",
+    "translate": "Mill lining Plan"
+  },
+  {
+    "name": "Насосные станции",
+    "translate": "Pumping stations"
+  },
+  {
+    "name": "Насосы Агентское",
+    "translate": "Pumps. Agency agreement"
+  },
+  {
+    "name": "Насосы Водяные",
+    "translate": "Water Pumps"
+  },
+  {
+    "name": "Насосы и трубы План",
+    "translate": "Pumps and Pipes Plan"
+  },
+  {
+    "name": "Насосы Химические",
+    "translate": "Chemical Pumps"
+  },
+  {
+    "name": "Насосы Шламовые",
+    "translate": "Slurry Pumps"
+  },
+  {
+    "name": "Насосы. Запчасти",
+    "translate": "Pumps. Spare Parts"
+  },
+  {
+    "name": "Насосы. Запчасти Wilo",
+    "translate": "Pumps. Spare Parts Wilo"
+  },
+  {
+    "name": "Насосы. Проточные части металл",
+    "translate": "Pumps. Flow Parts Metal"
+  },
+  {
+    "name": "Насосы. Проточные части резина",
+    "translate": "Pumps. Flow Parts Rubber"
+  },
+  {
+    "name": "Обогащение Агентское",
+    "translate": "Flowtech and Processing. Agency agreement "
+  },
+  {
+    "name": "Отсадочные машины",
+    "translate": "Jig"
+  },
+  {
+    "name": "Питатели вибрационные",
+    "translate": "Vibratory Feeders"
+  },
+  {
+    "name": "Питатели вибрационные колосниковые",
+    "translate": "Vibrating grizzly feeders"
+  },
+  {
+    "name": "Питатели ленточные",
+    "translate": "Belt feeders"
+  },
+  {
+    "name": "Питатели пластинчатые",
+    "translate": "Apron feeders"
+  },
+  {
+    "name": "Питатели скребковые",
+    "translate": "Chain feeders"
+  },
+  {
+    "name": "Питатели. Бункер перегружатели",
+    "translate": "Feeder-breakers"
+  },
+  {
+    "name": "Преобразователи частоты",
+    "translate": "Frequency converters"
+  },
+  {
+    "name": "Пресс-валки",
+    "translate": "HPGR"
+  },
+  {
+    "name": "Пробоотборники",
+    "translate": "Sampling"
+  },
+  {
+    "name": "Просеивающие поверхности",
+    "translate": "Screen media"
+  },
+  {
+    "name": "Прочее",
+    "translate": "Other"
+  },
+  {
+    "name": "Прочее двигатели",
+    "translate": "Motors Other"
+  },
+  {
+    "name": "Прочее ПЧ",
+    "translate": "Frequency Converters Other"
+  },
+  {
+    "name": "Прочее энергетическое",
+    "translate": "Other Power Engineering Equipment"
+  },
+  {
+    "name": "Прочие (муфты, карданные валы)",
+    "translate": "Other (couplings, driveshafts)"
+  },
+  {
+    "name": "Пусковые устройства",
+    "translate": "Starters"
+  },
+  {
+    "name": "Распределение",
+    "translate": "Load dispatch"
+  },
+  {
+    "name": "Сгустителя пластинчатые",
+    "translate": "Inclined plate settlers"
+  },
+  {
+    "name": "Сгустителя радиальные",
+    "translate": "Radial thickeners"
+  },
+  {
+    "name": "Сепарация",
+    "translate": "Separation"
+  },
+  {
+    "name": "Складирование и транспортировка",
+    "translate": "Bulk material handling (BMH)"
+  },
+  {
+    "name": "Скруббер-бутары",
+    "translate": "Scrubber"
+  },
+  {
+    "name": "Сорбционные колонны",
+    "translate": "Absorption column"
+  },
+  {
+    "name": "ТДМ",
+    "translate": "TDM"
+  },
+  {
+    "name": "Теплообменники",
+    "translate": "Heat Exchangers"
+  },
+  {
+    "name": "Трубопроводы резина",
+    "translate": "Rubber Piping"
+  },
+  {
+    "name": "Трубы с полимерной футеровкой",
+    "translate": "Polymer lined pipes"
+  },
+  {
+    "name": "Услуги. Сервис. Руки",
+    "translate": "Service. Hands"
+  },
+  {
+    "name": "Фильтроткани",
+    "translate": "Filter Cloths"
+  },
+  {
+    "name": "Фильтроткани. Заготовки",
+    "translate": "Filter Cloths Blanks"
+  },
+  {
+    "name": "Фильтроткани. Каркасы",
+    "translate": "Filter Cloths Frames"
+  },
+  {
+    "name": "Фильтроткани. Ленты",
+    "translate": "Filter Cloths Belts"
+  },
+  {
+    "name": "Фильтроткани. Плиты",
+    "translate": "Filter Cloths Plates"
+  },
+  {
+    "name": "Фильтроткани. Рукава",
+    "translate": "Filter Cloths Sleeves"
+  },
+  {
+    "name": "Фильтроткани. Салфетки",
+    "translate": "Filter Cloths Napkins"
+  },
+  {
+    "name": "Фильтроткани. Сектора",
+    "translate": "Filter Cloths Sectors"
+  },
+  {
+    "name": "Фильтроткани. Сопутствующие",
+    "translate": "Filter Cloths Other Products"
+  },
+  {
+    "name": "Фильтроткани. Спиральные сетки",
+    "translate": "Filter Cloths Spiral Mesh "
+  },
+  {
+    "name": "Фильтроткани. Ткани в рулонах",
+    "translate": "Filter Cloths Rolled "
+  },
+  {
+    "name": "Фильтроткани. Ткани диафрагменные",
+    "translate": "Filter Cloths Diaphragm"
+  },
+  {
+    "name": "Фильтроткани. Трапеции",
+    "translate": "Filter Cloths Trapezoidal "
+  },
+  {
+    "name": "Фильтроткани. Чехлы",
+    "translate": "Filter Cloths Covers"
+  },
+  {
+    "name": "Фильтроткани1",
+    "translate": "Filter Cloths 1"
+  },
+  {
+    "name": "Фильтры башенные",
+    "translate": "Tower press filter"
+  },
+  {
+    "name": "Фильтры дисковые",
+    "translate": "Disc Filters"
+  },
+  {
+    "name": "Фильтры камерно/мембранные",
+    "translate": "Chamber membrane filter press"
+  },
+  {
+    "name": "Фильтры камерно/мембранные",
+    "translate": "Chamber membrane filter press"
+  },
+  {
+    "name": "Флотационные машины",
+    "translate": "Floatation machine"
+  },
+  {
+    "name": "Хоз. нужды",
+    "translate": "Operational Expences"
+  },
+  {
+    "name": "Центробежные концентраторы",
+    "translate": "Gravity Concentrators"
+  },
+  {
+    "name": "Электродвигатели",
+    "translate": "Electric Motors"
+  },
+  {
+    "name": "ЭМП План",
+    "translate": "EMD Plan"
+  },
+  {
+    "name": "ЭМП. Запчасти",
+    "translate": "EMD. Spare Parts"
+  },
+  {
+    "name": "Энергетическое оборудование",
+    "translate": "Power engineering equipment"
+  },
+  {
+    "name": "LCS",
+    "translate": "LCS"
+  },
+  {
+    "name": "Multotec. Запчасти",
+    "translate": "Multotec. Spare Parts"
+  },
+  {
+    "name": "Капитальное оборудование mining",
+    "translate": "Capital Equipment Mining"
+  },
+  {
+    "name": "Энергетическое оборудование",
+    "translate": "Power engineering equipment"
+  },
+  {
+    "name": "АСУ",
+    "translate": "APCS (Automated Process Control System)"
+  },
+  {
+    "name": "Мел. футеровка резина",
+    "translate": "Rubber Mill Lining"
+  },
+  {
+    "name": "Венцы и подвенцовые шестерни",
+    "translate": "Girth gears and pinions"
+  },
+  {
+    "name": "Классификация и сепарация",
+    "translate": "Classification and Separation "
+  },
+  {
+    "name": "Складирование и транспортировка. Прочее",
+    "translate": "BMH. Other"
+  },
+  {
+    "name": "Складирование",
+    "translate": "Stacking equipment"
+  },
+  {
+    "name": "ДСО. Прочее",
+    "translate": "C&S. Other"
+  },
+  {
+    "name": "Запчасти Обогащение",
+    "translate": "Spare parts Processing"
+  },
+  {
+    "name": "Запчасти Рудоподготовка",
+    "translate": "Spare parts Comminution"
+  },
+  {
+    "name": "Грохота",
+    "translate": "Screens"
+  },
+  {
+    "name": "Дробилки",
+    "translate": "Crushers"
+  },
+  {
+    "name": "Капитальное оборудование construction",
+    "translate": "Capital Equipment Construction"
+  },
+  {
+    "name": "ДСО Агентское",
+    "translate": "C&S Agency Agreement"
+  },
+  {
+    "name": "Запчасти План",
+    "translate": "Spare Parts Plan"
+  },
+  {
+    "name": "ЗРА и ЗРА Запчасти",
+    "translate": "Valves and spare parts"
+  },
+  {
+    "name": "ЗРА План",
+    "translate": "Valves Plan"
+  },
+  {
+    "name": "Редукторы. Муфты. Моторредукторы",
+    "translate": "Gearboxes, Couplings, Gearmotors"
+  },
+  {
+    "name": "Инжиниринг",
+    "translate": "Engineering"
+  },
+  {
+    "name": "Гидрометаллургия",
+    "translate": "Hydrometallurgy"
+  },
+  {
+    "name": "Конвейеры",
+    "translate": "Conveyors"
+  },
+  {
+    "name": "Конвейерные компоненты и аксессуары",
+    "translate": "Conveyor components and accessories"
+  },
+  {
+    "name": "Конвейерные ленты",
+    "translate": "Conveyor Belts"
+  },
+  {
+    "name": "Материалы План",
+    "translate": "Lining Materials Plan"
+  },
+  {
+    "name": "Футеровочные материалы",
+    "translate": "Lining Materials"
+  },
+  {
+    "name": "Мел. футеровка металл",
+    "translate": "Metal mill lining "
+  },
+  {
+    "name": "Мел. футеровка резино-металл",
+    "translate": "Rubber-metal mill lining "
+  },
+  {
+    "name": "Мел. футеровка. Перефутеровочные машины",
+    "translate": "Mill reline machines"
+  },
+  {
+    "name": "Измельчение",
+    "translate": "Grinding"
+  },
+  {
+    "name": "Шары",
+    "translate": "Griding Balls"
+  },
+  {
+    "name": "МФ План",
+    "translate": "Mill Lining Plan"
+  },
+  {
+    "name": "Насосные станции",
+    "translate": "Pumping stations"
+  },
+  {
+    "name": "Насосы Агентское",
+    "translate": "Pumps Agency Agreement"
+  },
+  {
+    "name": "Насосы Водяные",
+    "translate": "Water Pumps"
+  },
+  {
+    "name": "Насосы и трубы План",
+    "translate": "Pumps and Pipes Plan"
+  },
+  {
+    "name": "Насосы Химические",
+    "translate": "Chemical Pumps"
+  },
+  {
+    "name": "Насосы Шламовые",
+    "translate": "Slurry Pumps"
+  },
+  {
+    "name": "Запчасти Технологии потоков",
+    "translate": "Spare parts Flowtech"
+  },
+  {
+    "name": "Обогащение Агентское",
+    "translate": "Flowtech and Processing Agency Agreement"
+  },
+  {
+    "name": "Питатели",
+    "translate": "Feeders"
+  },
+  {
+    "name": "Частотные Преобразователи",
+    "translate": "Frequency Converters"
+  },
+  {
+    "name": "Пресс-валки",
+    "translate": "HPGR"
+  },
+  {
+    "name": "Просеивающие поверхности",
+    "translate": "Screen media"
+  },
+  {
+    "name": "Запчасти Прочее",
+    "translate": "Spare parts. Other"
+  },
+  {
+    "name": "Сгущение",
+    "translate": "Thickeners"
+  },
+  {
+    "name": "Сепарация",
+    "translate": "Separation"
+  },
+  {
+    "name": "Трубопроводы",
+    "translate": "Piping and hoses"
+  },
+  {
+    "name": "Услуги. Сервис. Руки",
+    "translate": "Service. Hands"
+  },
+  {
+    "name": "Фильтроткани",
+    "translate": "Filter Cloths"
+  },
+  {
+    "name": "Фильтрация",
+    "translate": "Filtration"
+  },
+  {
+    "name": "Флотация",
+    "translate": "Flotation"
+  },
+  {
+    "name": "Электродвигатели",
+    "translate": "Electric Motors"
+  },
+  {
+    "name": "ЭМП План",
+    "translate": "EMD Plan"
+  },
+  {
+    "name": "ЭМП. Запчасти",
+    "translate": "EMD. Spare Parts"
+  },
+  {
+    "name": "Сервис",
+    "translate": "Service"
+  },
+  {
+    "name": "Multotec",
+    "translate": "Multotec"
+  },
+  {
+    "name": "Запчасти",
+    "translate": "Spare Parts"
+  },
+  {
+    "name": "Энергетическое оборудование",
+    "translate": "Power Engineering Equipment"
+  },
+  {
+    "name": "АСУ",
+    "translate": "APCS (Automated Process Control System)"
+  },
+  {
+    "name": "МФ",
+    "translate": "Mill lining"
+  },
+  {
+    "name": "Механический привод",
+    "translate": "Mechanical Drive"
+  },
+  {
+    "name": "Классификация и сепарация",
+    "translate": "Classification and Separation "
+  },
+  {
+    "name": "Складирование и транспортировка",
+    "translate": "Bulk material handling (BMH)"
+  },
+  {
+    "name": "ДСО",
+    "translate": "Crushing & Screening (C&S)"
+  },
+  {
+    "name": "Рудоподготовка",
+    "translate": "Comminution"
+  },
+  {
+    "name": "Обогащение",
+    "translate": "Flowtech and Processing"
+  },
+  {
+    "name": "ЗРА и трубы",
+    "translate": "Valves and Piping"
+  },
+  {
+    "name": "Flow Tech",
+    "translate": "Flowtech and Processing"
+  },
+  {
+    "name": "Инжиниринг",
+    "translate": "Engineering"
+  },
+  {
+    "name": "Гидрометаллургия",
+    "translate": "Hydrometallurgy"
+  },
+  {
+    "name": "Энергетическое оборудование, Компрессора",
+    "translate": "Power Engineering Equipment, Compressors"
+  },
+  {
+    "name": "Конвейерные решения",
+    "translate": "Conveyor Solutions"
+  },
+  {
+    "name": "Измельчение",
+    "translate": "Grinding"
+  },
+  {
+    "name": "Насосные станции",
+    "translate": "Pumping stations"
+  },
+  {
+    "name": "Насосы",
+    "translate": "Pumps"
+  },
+  {
+    "name": "Частотные преобразователи",
+    "translate": "Frequency Converters"
+  },
+  {
+    "name": "Электродвигатели, Прочее двигатели",
+    "translate": "Electric Motors, Other Engines"
+  },
+  {
+    "name": "Преобразователи частоты, Прочее ПЧ",
+    "translate": "Frequency Converters, Other"
+  },
+  {
+    "name": "Энергетическое оборудование, Прочее энергетическое",
+    "translate": "Power Engineering Equipment. Other"
+  },
+  {
+    "name": "Электродвигатели, Пусковые устройства",
+    "translate": "Electric Motors, Starters"
+  },
+  {
+    "name": "Преобразователи частоты, Распределение",
+    "translate": "Frequency Converters, Load dispatch"
+  },
+  {
+    "name": "Обезвоживание",
+    "translate": "Dewatering"
+  },
+  {
+    "name": "Энергетическое оборудование, ТДМ",
+    "translate": "Power engineering equipment. TDM"
+  },
+  {
+    "name": "Преобразователи частоты, Теплообменники",
+    "translate": "Frequency Converters, Heat Exchangers"
+  },
+  {
+    "name": "Фильтроткани",
+    "translate": "Filter Cloths"
+  },
+  {
+    "name": "Флотация",
+    "translate": "Flotation"
+  },
+  {
+    "name": "Хоз. нужды",
+    "translate": "Operational Expences"
+  },
+  {
+    "name": "Электродвигатели",
+    "translate": "Power Engineering Equipment"
+  },
+  {
+    "name": "Электропривод",
+    "translate": "Electric Drive"
+  },
+  {
+    "name": "Сервис",
+    "translate": "Service"
+  },
+  {
+    "name": "ЭП",
+    "translate": "Electric Drive"
+  },
+  {
+    "name": "ДОП",
+    "translate": "Aftermarket"
+  },
+  {
+    "name": "Технологии Обогащения и Потоков",
+    "translate": "Flowtech and Processing"
+  },
+  {
+    "name": "Рудоподготовка",
+    "translate": "Comminution"
+  },
+  {
+    "name": "Сервис",
+    "translate": "Service"
+  },
+  {
+    "name": "Автоматизация и электроснабжение",
+    "translate": "Automation and Power Supply"
+  },
+  {
+    "name": "Проектирование",
+    "translate": "Design/Engineering"
+  },
+  {
+    "name": "Тестирование и НИР",
+    "translate": "Testing and Research & Development"
+  },
+  {
+    "name": "Клиент",
+    "translate": "Customer "
+  },
+  {
+    "name": "Коммерческое предложение",
+    "translate": "Commercial Proposal"
+  },
+  {
+    "name": "Конкурент",
+    "translate": "Competitor"
+  },
+  {
+    "name": "Контакт",
+    "translate": "Contact"
+  },
+  {
+    "name": "Контракт",
+    "translate": "Contract"
+  },
+  {
+    "name": "Номенклатура",
+    "translate": "Nomenclature"
+  },
+  {
+    "name": "Подразделение",
+    "translate": "Division"
+  },
+  {
+    "name": "Сделка",
+    "translate": "Deal"
+  },
+  {
+    "name": "Спецификация",
+    "translate": "Specification"
+  },
+  {
+    "name": "Абразивность оборудования",
+    "translate": "Equipment Abrasiveness"
+  },
+  {
+    "name": "Адрес",
+    "translate": "Address"
+  },
+  {
+    "name": "Акт установленных запасных частей",
+    "translate": "Act of Installed Spare Parts"
+  },
+  {
+    "name": "Альбом профиля",
+    "translate": "Profile Album"
+  },
+  {
+    "name": "Аналитика затрат",
+    "translate": "Cost Analytics"
+  },
+  {
+    "name": "Аналитика продаж",
+    "translate": "Sales Analytics"
+  },
+  {
+    "name": "Артикул поставщика",
+    "translate": "Supplier Part No."
+  },
+  {
+    "name": "Базис поставки",
+    "translate": "Delivery Basis"
+  },
+  {
+    "name": "Базовая роль пользователя",
+    "translate": "Basic User Role"
+  },
+  {
+    "name": "Банковские реквизиты",
+    "translate": "Bank details"
+  },
+  {
+    "name": "Бренд оборудования",
+    "translate": "Equipment Brand"
+  },
+  {
+    "name": "Бренд поставщика",
+    "translate": "Supplier Brand"
+  },
+  {
+    "name": "Вариант закупки",
+    "translate": "Procurement Option"
+  },
+  {
+    "name": "Версия прогноза",
+    "translate": "Forecast Version"
+  },
+  {
+    "name": "Версия расчета бюджета",
+    "translate": "Budget Calculation Version"
+  },
+  {
+    "name": "Весогабаритная характеристика",
+    "translate": "Weight and Dimension Characteristics"
+  },
+  {
+    "name": "Веха нового строительства",
+    "translate": "Milestone of New Construction"
+  },
+  {
+    "name": "Вид промышленности",
+    "translate": "Industry Type"
+  },
+  {
+    "name": "Вид работ",
+    "translate": "Type of Work"
+  },
+  {
+    "name": "Выезд",
+    "translate": "Visit"
+  },
+  {
+    "name": "Вычисление долга",
+    "translate": "Debt Calculation"
+  },
+  {
+    "name": "Годовой бюджет",
+    "translate": "Annual Budget"
+  },
+  {
+    "name": "Грейд проекта",
+    "translate": "Project Grade"
+  },
+  {
+    "name": "Дело",
+    "translate": "Case"
+  },
+  {
+    "name": "Детализация счета",
+    "translate": "Invoice Details"
+  },
+  {
+    "name": "Доверенность",
+    "translate": "Power of Attorney"
+  },
+  {
+    "name": "Договор",
+    "translate": "Agreement/Contract"
+  },
+  {
+    "name": "Договор поставщика",
+    "translate": "Supplier Agreement"
+  },
+  {
+    "name": "Заказ поставщика",
+    "translate": "Supplier Order"
+  },
+  {
+    "name": "Запасы на складе",
+    "translate": "Inventory in Stock"
+  },
+  {
+    "name": "Запрос для печати документа",
+    "translate": "Document Printing Request"
+  },
+  {
+    "name": "Запрос стоимости доставки",
+    "translate": "Delivery Cost Inquiry"
+  },
+  {
+    "name": "Запрос уточнения сроков",
+    "translate": "Deadline Clarification Request"
+  },
+  {
+    "name": "Запрос цен и сроков",
+    "translate": "Quotation request"
+  },
+  {
+    "name": "Затраты",
+    "translate": "Costs"
+  },
+  {
+    "name": "Защита проекта от поставщика",
+    "translate": "Project Protection from Supplier"
+  },
+  {
+    "name": "Заявка на новую номенклатуру",
+    "translate": "Request for New Part Number"
+  },
+  {
+    "name": "Заявка на отгрузку",
+    "translate": "Shipment Request"
+  },
+  {
+    "name": "Заявка продавца",
+    "translate": "Sales Person's Request"
+  },
+  {
+    "name": "Зона складской обработки",
+    "translate": "Warehouse Processing Area"
+  },
+  {
+    "name": "История запуска БП",
+    "translate": "Business Process Launch History"
+  },
+  {
+    "name": "Ключевое событие",
+    "translate": "Key Event"
+  },
+  {
+    "name": "Кнопка нотифая",
+    "translate": "Notify Button"
+  },
+  {
+    "name": "Команда",
+    "translate": "Team"
+  },
+  {
+    "name": "Компенсация",
+    "translate": "Compensation"
+  },
+  {
+    "name": "Контейнер аналогов",
+    "translate": "Analog Container"
+  },
+  {
+    "name": "Контейнер эквивалентов",
+    "translate": "Equivalent Container"
+  },
+  {
+    "name": "Конфигурация записи",
+    "translate": "Record Configuration"
+  },
+  {
+    "name": "Конфигурация правила записей",
+    "translate": "Record Rule Configuration"
+  },
+  {
+    "name": "Коэффициент MA",
+    "translate": "MA Ratio"
+  },
+  {
+    "name": "Коэффициент ТЗР",
+    "translate": "Shipping and Handling Costs Ratio"
+  },
+  {
+    "name": "Кредитный лимит",
+    "translate": "Credit Limit"
+  },
+  {
+    "name": "Лог",
+    "translate": "Log"
+  },
+  {
+    "name": "Модель оборудования",
+    "translate": "Equipment Model"
+  },
+  {
+    "name": "Набор футеровки",
+    "translate": "Lining Kit"
+  },
+  {
+    "name": "Наличие на складе",
+    "translate": "Availability in Stock"
+  },
+  {
+    "name": "Направление PG",
+    "translate": "Product Line"
+  },
+  {
+    "name": "Направление продажи",
+    "translate": "Sales Division"
+  },
+  {
+    "name": "Наработка",
+    "translate": "Runtime"
+  },
+  {
+    "name": "Настройка основных полей",
+    "translate": "Main Field Settings"
+  },
+  {
+    "name": "Настройка пользователя",
+    "translate": "User Settings"
+  },
+  {
+    "name": "Настройка скрытых полей",
+    "translate": "Hidden Field Settings"
+  },
+  {
+    "name": "Неделя CashFlow",
+    "translate": "CashFlow Week"
+  },
+  {
+    "name": "Новое строительство",
+    "translate": "New Construction"
+  },
+  {
+    "name": "Номенклатура клиента",
+    "translate": "Customer Assortment"
+  },
+  {
+    "name": "Нотифай",
+    "translate": "Notify"
+  },
+  {
+    "name": "Обеспечение заказа",
+    "translate": "Order Fulfillment"
+  },
+  {
+    "name": "Оборудование",
+    "translate": "Equipment"
+  },
+  {
+    "name": "Оборудование выезда",
+    "translate": "On-site Equipment"
+  },
+  {
+    "name": "Оплата",
+    "translate": "Payment"
+  },
+  {
+    "name": "Оповещение пользователей",
+    "translate": "User Notification"
+  },
+  {
+    "name": "Опрос",
+    "translate": "Survey"
+  },
+  {
+    "name": "Опросный лист",
+    "translate": "Questionnaire"
+  },
+  {
+    "name": "Отгрузочные документы",
+    "translate": "Shipment Documents"
+  },
+  {
+    "name": "Отрасль промышленности",
+    "translate": "Industry"
+  },
+  {
+    "name": "Параметр ед. изм.",
+    "translate": "Unit parameter"
+  },
+  {
+    "name": "Параметр печатного документа",
+    "translate": "Print Document Parameter"
+  },
+  {
+    "name": "Параметры системы",
+    "translate": "System Parameters"
+  },
+  {
+    "name": "Партия",
+    "translate": "Batch"
+  },
+  {
+    "name": "Перемещение на склад",
+    "translate": "Warehouse Transfer Order"
+  },
+  {
+    "name": "Перефутеровка",
+    "translate": "Re-lining"
+  },
+  {
+    "name": "Печатный документ",
+    "translate": "Printed Document"
+  },
+  {
+    "name": "Планировщик процессов",
+    "translate": "Process Scheduler"
+  },
+  {
+    "name": "Подотрасль промышленности",
+    "translate": "Sub-industry "
+  },
+  {
+    "name": "Подстрока TAM SAM",
+    "translate": "TAM SAM Substring"
+  },
+  {
+    "name": "Подтип оборудования",
+    "translate": "Equipment Subtype"
+  },
+  {
+    "name": "Пользовательские настройки грида",
+    "translate": "Custom Grid Settings"
+  },
+  {
+    "name": "Пользовательский комплект",
+    "translate": "Custom Kit"
+  },
+  {
+    "name": "Поставщик по заявке",
+    "translate": "Assigned Supplier"
+  },
+  {
+    "name": "Потенциал сделки",
+    "translate": "Deal Opportunity"
+  },
+  {
+    "name": "Потребность",
+    "translate": "Demand"
+  },
+  {
+    "name": "Предложение конкурента",
+    "translate": "Competitor's Proposal"
+  },
+  {
+    "name": "Представление стены",
+    "translate": "Wall Presentation"
+  },
+  {
+    "name": "Признак проверки минимальной маржинальности",
+    "translate": "Minimum Margin Check Indicator"
+  },
+  {
+    "name": "Применимость запасных частей",
+    "translate": "Spare Parts Applicability"
+  },
+  {
+    "name": "Проблема оборудования",
+    "translate": "Equipment Issue"
+  },
+  {
+    "name": "Проблемный узел",
+    "translate": "Problematic Equipment Unit"
+  },
+  {
+    "name": "Продукт переработки",
+    "translate": "Product of processing"
+  },
+  {
+    "name": "Продуктовая группа OEМ",
+    "translate": "OEM Product Group"
+  },
+  {
+    "name": "Продуктовая группа SM",
+    "translate": "SM Product Group"
+  },
+  {
+    "name": "Продуктовая группа SM AGG",
+    "translate": "SM AGG Product Group"
+  },
+  {
+    "name": "Процесс задач",
+    "translate": "Task Process"
+  },
+  {
+    "name": "Процесс переработки",
+    "translate": "Processing Process"
+  },
+  {
+    "name": "Процесс согласования",
+    "translate": "Approval Process"
+  },
+  {
+    "name": "Прочитанное сообщение",
+    "translate": "Read Message"
+  },
+  {
+    "name": "Расход выезда",
+    "translate": "On-site Expenditure"
+  },
+  {
+    "name": "Реализация проектов",
+    "translate": "Project execution"
+  },
+  {
+    "name": "Регион",
+    "translate": "Region"
+  },
+  {
+    "name": "Рейс",
+    "translate": "Flight"
+  },
+  {
+    "name": "Рекламация",
+    "translate": "Complaint"
+  },
+  {
+    "name": "Решение по рекламациям",
+    "translate": "Complaint Resolution"
+  },
+  {
+    "name": "Риск по проектам ДО",
+    "translate": "Equipment Projects risks"
+  },
+  {
+    "name": "Связь с субпроектировщиком",
+    "translate": "Subcontractor Communication"
+  },
+  {
+    "name": "Сканирование",
+    "translate": "Scanning"
+  },
+  {
+    "name": "Склад",
+    "translate": "Warehouse"
+  },
+  {
+    "name": "Ставка выездного сервиса",
+    "translate": "On-site Service Rate"
+  },
+  {
+    "name": "Стадия переработки",
+    "translate": "Processing Stage"
+  },
+  {
+    "name": "Статус оборудования",
+    "translate": "Equipment Status"
+  },
+  {
+    "name": "Статус поставки",
+    "translate": "Delivery Status"
+  },
+  {
+    "name": "Строка CashFlow проекта",
+    "translate": "CashFlow Project Line"
+  },
+  {
+    "name": "Строка TAM SAM",
+    "translate": "TAM SAM Line"
+  },
+  {
+    "name": "Строка акта установленных запчастей",
+    "translate": "Installed Spare Parts Act Line"
+  },
+  {
+    "name": "Строка заказа поставщика",
+    "translate": "Supplier Order Line"
+  },
+  {
+    "name": "Строка запроса стоимости доставки",
+    "translate": "Delivery Cost Request Line"
+  },
+  {
+    "name": "Строка запроса цены и сроков",
+    "translate": "Price and Lead Time Request Line"
+  },
+  {
+    "name": "Строка заявки на новую номенклатуру",
+    "translate": "New Part Number Request Line"
+  },
+  {
+    "name": "Строка заявки продавца",
+    "translate": "Sales Person's Request Line"
+  },
+  {
+    "name": "Строка конкурентного листа",
+    "translate": "Competitive List Line"
+  },
+  {
+    "name": "Строка опроса",
+    "translate": "Survey Line"
+  },
+  {
+    "name": "Строка отгрузки",
+    "translate": "Shipment Line"
+  },
+  {
+    "name": "Строка пополнения",
+    "translate": "Replenishment Line"
+  },
+  {
+    "name": "Строка прогноза",
+    "translate": "Forecast Line"
+  },
+  {
+    "name": "Строка проекта",
+    "translate": "Project Line"
+  },
+  {
+    "name": "Строка расхода выезда",
+    "translate": "On-site Expenditure Line"
+  },
+  {
+    "name": "Строка расчета стоимости проекта",
+    "translate": "Project Cost Calculation Line"
+  },
+  {
+    "name": "Строка рекламации",
+    "translate": "Complaint Line"
+  },
+  {
+    "name": "Строка РНО",
+    "translate": "Release order line"
+  },
+  {
+    "name": "Строка табеля рабочего времени",
+    "translate": "Timesheet Line"
+  },
+  {
+    "name": "Субпроектировщик",
+    "translate": "Subcontractor"
+  },
+  {
+    "name": "Счет",
+    "translate": "Account"
+  },
+  {
+    "name": "Табличный параметр документа",
+    "translate": "Document Table Parameter"
+  },
+  {
+    "name": "Технический объект (роли)",
+    "translate": "Technical Object (Roles)"
+  },
+  {
+    "name": "Тип оборудования",
+    "translate": "Equipment Type"
+  },
+  {
+    "name": "Товарная категория",
+    "translate": "Product Category"
+  },
+  {
+    "name": "Транзит",
+    "translate": "Transit"
+  },
+  {
+    "name": "Уполномоченные лица",
+    "translate": "Authorized Persons"
+  },
+  {
+    "name": "Условия оплаты",
+    "translate": "Terms of payment"
+  },
+  {
+    "name": "Установленное оборудование",
+    "translate": "Installed Equipment"
+  },
+  {
+    "name": "Участник команды",
+    "translate": "Team Member"
+  },
+  {
+    "name": "Цена в валюте",
+    "translate": "Price in currency"
+  },
+  {
+    "name": "Цены номенклатуры",
+    "translate": "Part item Prices"
+  },
+  {
+    "name": "Шаблон команды",
+    "translate": "Team Template"
+  },
+  {
+    "name": "Этап сбора прогноза",
+    "translate": "Forecast Collection Stage"
+  },
+  {
+    "name": "Этап согласования",
+    "translate": "Approval Stage"
+  },
+  {
+    "name": "Инженерная отчетность МА",
+    "translate": "MA Engineering Report"
+  },
+  {
+    "name": "Инженерная отчетность оборудования",
+    "translate": "Engineering Report Equipment "
+  },
+  {
+    "name": "Инженерная отчетность ДОП",
+    "translate": "Engineering Report Aftermarket "
+  },
+  {
+    "name": "Проекты на контрактации",
+    "translate": "Projects at Contracting"
+  },
+  {
+    "name": "Раб.место инженера ДОП",
+    "translate": "Engineer's Workplace Aftermarket  Department"
+  },
+  {
+    "name": "Остатки на складах МА",
+    "translate": "MA Inventory Balances"
+  },
+  {
+    "name": "Дашборд КАМ/РМА",
+    "translate": "KAM/HMA Dashboard"
+  },
+  {
+    "name": "Коммерческая интенсивность",
+    "translate": "Commercial Intensity"
+  },
+  {
+    "name": "Дашборд ДОП",
+    "translate": "Dashboard Aftermarket Department"
+  },
+  {
+    "name": "Визуализация долга",
+    "translate": "Debt Visualization"
+  },
+  {
+    "name": "Сделки инжиниринга",
+    "translate": "Engineering Department's Deals"
+  },
+  {
+    "name": "Реестр рекламаций",
+    "translate": "Complaints Registry"
+  },
+  {
+    "name": "Потребности",
+    "translate": "Demand"
+  },
+  {
+    "name": "Дашборд поставок",
+    "translate": "Supply Dashboard"
+  },
+  {
+    "name": "Калькулятор доставки",
+    "translate": "Delivery Cost Calculator"
+  },
+  {
+    "name": "Отчеты",
+    "translate": "Reports"
+  },
+  {
+    "name": "Мотивация КАМов",
+    "translate": "KAM Motivation"
+  },
+  {
+    "name": "Выигранные сделки",
+    "translate": "Won Deals"
+  },
+  {
+    "name": "Проигранные проекты",
+    "translate": "Lost Projects"
+  },
+  {
+    "name": "Прогноз TAM SAM",
+    "translate": "TAM SAM Forecast"
+  },
+  {
+    "name": "Новое строительство",
+    "translate": "New Construction"
+  },
+  {
+    "name": "Категорийная отчетность",
+    "translate": "Category Reporting"
+  },
+  {
+    "name": "План/Прогноз",
+    "translate": "Plan/Forecast"
+  },
+  {
+    "name": "Установленное оборудовнаие",
+    "translate": "Installed Equipment"
+  },
+  {
+    "name": "Наличие и планы",
+    "translate": "Availability and Plans"
+  },
+  {
+    "name": "Участки",
+    "translate": "Production Sites"
+  },
+  {
+    "name": "Наличие на складе",
+    "translate": "Availability in Stock"
+  },
+  {
+    "name": "Категория номенклатуры",
+    "translate": "Part number Category"
+  },
+  {
+    "name": "Табель рабочего времени",
+    "translate": "Timesheet"
+  }
+]
